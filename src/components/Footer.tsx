@@ -17,7 +17,7 @@ export default function Footer() {
                   Биография
                 </a>
                 <a
-                  href="#cases"
+                  href="#news"
                   className="text-white hover:text-neutral-400 transition-colors duration-300 text-sm sm:text-base"
                 >
                   Случаи предательства
